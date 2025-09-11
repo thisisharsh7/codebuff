@@ -16,10 +16,8 @@ Before you begin, you'll need to install a few tools:
 3. **Docker**: Required for the web server database
 4. **Infisical CLI**: For secrets management
    ```bash
-   bun install -g @infisical/cli
+   npm install -g @infisical/cli
    ```
-   
-   *Note: You can use npm instead of bun for global installs if needed*
 
 ### Setting Up Your Development Environment
 
