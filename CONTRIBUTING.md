@@ -40,7 +40,9 @@ Before you begin, you'll need to install a few tools:
 
    ```bash
    npm install -g @infisical/cli
+   infisical init
    infisical login
+   # Select "US" region when prompted
    ```
 
    Follow the [Infisical Setup Guide](./INFISICAL_SETUP_GUIDE.md) for detailed setup instructions.

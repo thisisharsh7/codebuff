@@ -4,14 +4,17 @@ Quick 5-step setup to get Codebuff running with Infisical secrets.
 
 ## Setup Steps
 
-### 1. Install & Login
+### 1. Install & Setup
 ```bash
 npm install -g @infisical/cli
+infisical init
 infisical login
+# Select "US" region when prompted
+infisical secrets  # Verify setup works
 ```
 
 ### 2. Browser Login
-- Browser opens automatically
+- Browser opens automatically to https://app.infisical.com
 - Login with **any email** (Gmail, etc.)
 - Fill in any **name** and **organization name** when asked
 - Copy the token from browser and paste in terminal
@@ -45,4 +48,6 @@ bun run start-bin     # CLI
 ## That's It!
 
 The `.env.example` file contains all the dummy values needed for development. Only the database password needs to be fixed to match Docker's password.
+
+You will need to populate all the secrets in the Infisical UI at https://app.infisical.com. You can provide dummy values for the secrets if you get an error about missing secrets, but you will need to update them with real values in order to use the associated feature.
 
