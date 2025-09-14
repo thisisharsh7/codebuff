@@ -2,7 +2,9 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community, as much as possible, a harassment-free experience where everyone is treated with respect.
+
+Let's go Codebuff Community!!!
 
 ## Encouraged Behaviors
 
@@ -15,8 +17,7 @@ With these considerations in mind, we agree to behave mindfully toward each othe
 3. Respecting **different viewpoints** and experiences.
 4. **Taking responsibility** for our actions and contributions.
 5. Gracefully giving and accepting **constructive feedback**.
-6. Committing to **repairing harm** when it occurs.
-7. Behaving in other ways that promote and sustain the **well-being of our community**.
+6. Behaving in other ways that promote and sustain the **well-being of our community**.
 
 ## Restricted Behaviors
 
@@ -43,7 +44,7 @@ Tensions can occur between community members even when they are trying their bes
 
 When an incident does occur, it is important to report it promptly. To report a possible violation, contact the project team at support@codebuff.com.
 
-Community Maintainers take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. Community Maintainers will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
+Community Maintainers take reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations. Community Maintainers will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality.
 
 ## Scope
 
